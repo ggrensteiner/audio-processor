@@ -1,0 +1,14 @@
+api:
+  hardcover_api_key: "YOUR_HARDCOVER_API_KEY_HERE"
+
+audio_processing:
+  loudness_normalization:
+    I: -16
+    TP: -1.5
+    LRA: 11
+  noise_filter:
+    noise_reduction: 0.5
+    noise_floor: 0.3
+    noise_profile: 0.2
+  output:
+    bitrate: "192k"
