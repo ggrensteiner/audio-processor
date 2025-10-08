@@ -2,6 +2,8 @@
 
 A Dockerized Python script that concatenates MP3 files, normalizes loudness, applies noise filtering using ffmpeg, and handles chapter markers. It also downloads metadata from Hardcover API.
 
+![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
+
 ## Features
 
 - Concatenates MP3 files from subdirectories
